@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2382349701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 590764b29ab4c59bc483d218b789bad3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b3a9faa90f30005ac3ba42e4521fc02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/RedCube.prefab
+Dependencies: []
